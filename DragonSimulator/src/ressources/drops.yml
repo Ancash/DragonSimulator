@@ -1,0 +1,334 @@
+aotd:
+      material: DIAMOND_SWORD
+      name: '&6Aspect of the Dragons'
+      lore:
+      - '&7Damage: &c+225'
+      - '&7Strength: &c+100'
+      - '&7Crit Chance: &c+1%'
+      - '&7Crit Damage: &c+50%'
+      - '           ' 
+      - '&6Item Ability: Dragon Rage &e&lRIGHT CLICK'
+      - '&7All Monsters in front of you' 
+      - '&7take &a700 &7damage. Hit'
+      - '&7monsters take large knockback'
+      - '&8Mana Cost: &3100✎ Mana'
+      ability: dragonrage
+set:
+   protector:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhkZTMzOWFmNjNhMjI5YzkyMzhkMDI3ZTQ3ZjUzZWViNTYxNDFhNDE5ZjUxYjM1YzMxZWExNDk0YjQzNWRkMyJ9fX0=\\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjM3YTU5NmNkYzRiMTFhOTk0OGZmYTM4YzJhYTNjNjk0MmVmNDQ5ZWIwYTM5ODIyODFkM2E1YjVhMTRlZjZhZSJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Health: §a+70 HP'
+         - '§7Defense: §a+135'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: GRAY
+         lore:
+         - '§7Health: §a+120 HP'
+         - '§7Defense: §a+185'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: GRAY
+         lore:
+         - '§7Health: §a+100 HP'
+         - '§7Defense: §a+165'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: GRAY
+         lore:
+         - '§7Health: §a+60 HP'
+         - '§7Defense: §a+115'
+         - '           '
+   old:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2FhMDlhZDE3N2ZiY2NjNTNmYTMxNmNjMDRiZGQyYzkzNjZiYWVkODg5ZGY3NmM1YTI5ZGVmZWE4MTcwZGVmNSJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTllOWU1NjAwNDEwYzFkMDI1NDQ3NGE4MWZlY2ZiMzg4NWMxY2Y2ZjUwNDE5MGQ4NTZmMGVjN2M5ZjA1NWM0MiJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Health: §a+90 HP'
+         - '§7Defense: §a+110'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: GRAY
+         lore:
+         - '§7Health: §a+150 HP'
+         - '§7Defense: §a+160'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: GRAY
+         lore:
+         - '§7Health: §a+130 HP'
+         - '§7Defense: §a+140'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: GRAY
+         lore:
+         - '§7Health: §a+80 HP'
+         - '§7Defense: §a+90'
+         - '           '
+   unstable:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTgyMjhjMjM0YzM5MDNjNTEyYTVhMGFhNDUyNjBlN2I1NjdlMGUyMGVlZmM3ZDU2MWNjZWM5N2IyOTU4NzFhZiJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjkyMmI1ZjhkNTU0Y2E5MjNmOTY4MzJhNWE0ZTkxNjliYzJjZGIzNjBhMmIwNmViZWMwOWI2YTZhZjQ2MThlMyJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Crit Chance: §c+5%'
+         - '§7Crit Damage: §c+15%'
+         - ' '
+         - '§7Health: §a+70 HP'
+         - '§7Defense: §a+110'
+         - '§7Intelligence: §a+25'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: PURPLE
+         lore:
+         - '§7Crit Chance: §c+5%'
+         - '§7Crit Damage: §c+15%'
+         - ' '
+         - '§7Health: §a+120 HP'
+         - '§7Defense: §a+160'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: PURPLE
+         lore:
+         - '§7Crit Chance: §c+5%'
+         - '§7Crit Damage: §c+15%'
+         - ' '
+         - '§7Health: §a+100 HP'
+         - '§7Defense: §a+140'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: PURPLE
+         lore:
+         - '§7Crit Chance: §c+5%'
+         - '§7Crit Damage: §c+15%'
+         - ' '
+         - '§7Health: §a+60 HP'
+         - '§7Defense: §a+90'
+         - '           '
+   wise:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ3NjIwYjJlNDkzNDk2M2JiMTI1MDgzMTBkMDU0OTRjMDY3ZGMzM2UwMDhjZWNmMmNkN2I0NTQ5NjU0ZmFiMyJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWEyOTg0Y2YwN2M0OGRhOTcyNDgxNmE4ZmYwODY0YmM2OGJjZTY5NGNlOGJkNmRiMjExMmI2YmEwMzEwNzBkZSJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Health: §a+70 HP'
+         - '§7Defense: §a+110'
+         - '§7Intelligence: §a+125'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: AQUA
+         lore:
+         - '§7Health: §a+120 HP'
+         - '§7Defense: §a+160'
+         - '§7Intelligence: §a+75'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: AQUA
+         lore:
+         - '§7Health: §a+100 HP'
+         - '§7Defense: §a+140'
+         - '§7Intelligence: §a+75'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: AQUA
+         lore:
+         - '§7Health: §a+60 HP'
+         - '§7Defense: §a+90'
+         - '§7Intelligence: §a+75'
+         - '           '
+   young:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGI1YmQ2YjY0ZThiZDZjNThmNWNkMWU3OWE1NTAyZDQ0NDhiYWZjMDA2ZDJmZTA1NjhmNmEwZDZiODZkNDQ5ZSJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM0ODZhZjNiODgyNzY2ZTgyYTBiYzE2NjVmZjAyZWI2ZTg3M2I2ZTBkNzcxZjNhZGFiYzc1OWI3MjAyMjZhIn19fQ==\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Health: §a+70 HP'
+         - '§7Defense: §a+110'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: GRAY
+         lore:
+         - '§7Health: §a+120 HP'
+         - '§7Defense: §a+160'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: GRAY
+         lore:
+         - '§7Health: §a+100 HP'
+         - '§7Defense: §a+140'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: GRAY
+         lore:
+         - '§7Health: §a+60 HP'
+         - '§7Defense: §a+90'
+         - '           '
+   strong:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmVlMzJmYmQ0YzdiMDNiODY5MDc4YWExZjQ5M2EzOTBlNmUxM2I0NjFkNjEzNzA3ZWFmYjMyNmRiY2QyYjRiNSJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWZkZTA5NjAzYjAyMjViOWQyNGE3M2EwZDNmM2UzYWYyOTA1OGQ0NDhjY2Q3Y2U1YzY3Y2QwMmZhYjBmZjY4MiJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Strength: §c+25'
+         - ' '
+         - '§7Health: §a+70 HP'
+         - '§7Defense: §a+110'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: RED
+         lore:
+         - '§7Strength: §c+25'
+         - ' '
+         - '§7Health: §a+120 HP'
+         - '§7Defense: §a+160'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: ORANGE
+         lore:
+         - '§7Strength: §c+25'
+         - ' '
+         - '§7Health: §a+100 HP'
+         - '§7Defense: §a+140'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: YELLOW
+         lore:
+         - '§7Strength: §c+25'
+         - ' '
+         - '§7Health: §a+60 HP'
+         - '§7Defense: §a+90'
+         - '           '
+   superior:
+      fragment: 
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmY4OWIxNTBiZTljNGM1MjQ5ZjM1NWY2OGVhMGM0MzkxMzAwYTliZTFmMjYwZDc1MGZjMzVhMTgxN2FkNzk2ZSJ9fX0=\'
+         lore:
+         - '§eRight-click to view recipes!'
+         - ' '
+         - '§5§lEPIC'
+      helmet:
+         texture: 'eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzU1OGVmYmU2Njk3NjA5OWNmZDYyNzYwZDllMDUxNzBkMmJiOGY1MWU2ODgyOWFiOGEwNTFjNDhjYmM0MTVjYiJ9fX0=\'
+         name: 'Protector Dragon Helmet'
+         material: SKULL_ITEM
+         lore:
+         - '§7Strength: §c+10'
+         - '§7Crit Chance: §c+2%'
+         - '§7Crit Damage: §c+10%'
+         - ' '
+         - '§7Health: §a+90 HP'
+         - '§7Defense: §a+130'
+         - '§7Intelligence: §a+25'
+         - '           '
+      chestplate:
+         name: 'Protector Dragon Chestplate'
+         material: LEATHER_CHESTPLATE
+         color: YELLOW
+         lore:
+         - '§7Strength: §c+10'
+         - '§7Crit Chance: §c+2%'
+         - '§7Crit Damage: §c+10%'
+         - ' '
+         - '§7Health: §a+150 HP'
+         - '§7Defense: §a+190'
+         - '§7Intelligence: §a+25'
+         - '           '
+      leggings:
+         name: 'Protector Dragon Leggings'
+         material: LEATHER_LEGGINGS
+         color: YELLOW
+         lore:
+         - '§7Strength: §c+10'
+         - '§7Crit Chance: §c+2%'
+         - '§7Crit Damage: §c+10%'
+         - ' '
+         - '§7Health: §a+130 HP'
+         - '§7Defense: §a+170'
+         - '§7Intelligence: §a+25'
+         - '           '
+      boots:
+         name: 'Protector Dragon Boots'
+         material: LEATHER_BOOTS
+         color: '204,51,0'
+         lore:
+         - '§7Strength: §c+10'
+         - '§7Crit Chance: §c+2%'
+         - '§7Crit Damage: §c+10%'
+         - ' '
+         - '§7Health: §a+80 HP'
+         - '§7Defense: §a+110'
+         - '§7Intelligence: §a+25'
+         - '           '
