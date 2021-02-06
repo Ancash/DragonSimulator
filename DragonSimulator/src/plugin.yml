@@ -1,9 +1,0 @@
-name: DragonSimulator
-version: 1.0
-main: de.ancash.dragonsimulator.DragonSimulator
-depend: [SpecialItems, ProtocolLib, CraftingInjector]
-commands:
-   setaltar:
-      description: Set the altar
-   se:
-      description: Gives you Summoning Eye
